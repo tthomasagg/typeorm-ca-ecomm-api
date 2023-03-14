@@ -1,0 +1,1 @@
+Here we should implement a class that deals with HTTP
